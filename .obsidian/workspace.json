@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "726b618b21798d03",
+    "type": "split",
+    "children": [
+      {
+        "id": "19c7ca511551aadf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbc07e3291346377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Window/Windows Subsystem for Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "70d3b437b6129e18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "383dda666d761aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clipping/[ Windows ] docker desktop 설치하기 (WSL2 Ubuntu 활용).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cd5d3ca16a71acc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f334515d19549b2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5829f97d17ff36ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d7ddc6794ed0eb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f3a9dba30d6a592",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5aa3831c54e9cad",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f49f34b4ce24134f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d7b4ba7bfc1096d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "643d8a780a1fa5ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12fe31b34fb65c69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Window/Windows Subsystem for Linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "462955010d154e9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Window/Windows Subsystem for Linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b962c635e3c62ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d1cc4f639730610c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Window/Windows Subsystem for Linux.md"
+              }
+            }
+          },
+          {
+            "id": "8c95ce9173ba9123",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "kr-book-info-plugin:Add Book Info": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian42-brat:BRAT": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "fbc07e3291346377",
+  "lastOpenFiles": [
+    "Clipping/하이퍼-V.md",
+    "33352d1b9dccd8676d01d0ce862719fb_MD5.png",
+    "3be0afea94cdfa2e5750e8864e721c1c_MD5.png",
+    "Window/Windows Subsystem for Linux.md",
+    "Window/ThreeFingerDrag.md",
+    "Obsidian/Theme.md",
+    "Obsidian/Sample Descriptions.md",
+    "Clipping/[ Windows ] docker desktop 설치하기 (WSL2 Ubuntu 활용).md",
+    "2023-12-15.md",
+    "490961804fe5fe2f392724ae317b0dd2_MD5.png",
+    "0059a87952c78b10783434aea4222673_MD5.png",
+    "53cc1e37d3872139ff125e08cb085625_MD5.png",
+    "28c25d31a50a4976dd2479f5054b8d86_MD5.png",
+    "1d3fdb49beec005f76b159a05afc355f_MD5.png",
+    "02cd16ddbb8de62d683ea251f9e69218_MD5.png",
+    "b71baf338855aa9bfe8918d56bd57526_MD5.png",
+    "8e8ad3b967e93c9b9e82a6e925801223_MD5.png",
+    "Clipping",
+    "Window",
+    "Obsidian/community plugins.md",
+    "README.md",
+    "Spaces/Home",
+    "Spaces",
+    "Untitled.canvas",
+    "Clipping/옵시디언 총정리 글.(내가 쓰는 플러그인, 설정, 사용방법 등)",
+    "Obsidian"
+  ]
+}

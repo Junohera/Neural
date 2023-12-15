@@ -1,0 +1,25 @@
+
+- make.md: Markdown
+- Emoji Toolbar: emoji
+- Dataview: database
+- sortable: dataview sort
+- Markdown table Editor: edit table
+- korea book info: history book
+- Advanced URI: clipping
+	- Mark download(in Chrome extension)
+- media extended: youtube
+- full calendar: schedule
+- Text generator: Chat gpt
+- copy document as HTML settings: document as HTML
+- Better word count: count character
+- style settings: theme
+- imgur plugin: inserting image
+- File Order: order
+- Zotero Integration: PDF
+- AnuPpuccin: Theme
+- Dynamic Background: snow, circle, ...
+- Calendar: (달력)
+- Clear Unused Images: (미사용 이미지 제거)
+- Local Images Plus: (링크 이미지 다운로드)
+- Recent Files: (최근 본 문서 목록)
+- Various Complements: (자동완성)
