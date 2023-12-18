@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Monitoring",
-      "path": "PostgreSQL/Monitoring.md"
-    },
-    {
-      "basename": "pgsql",
-      "path": "Docker/pgsql.md"
+      "basename": "CPU & Memory",
+      "path": "Linux/CPU & Memory.md"
     },
     {
       "basename": "postgres - Official Image  Docker Hub",
@@ -15,6 +11,10 @@
     {
       "basename": "Docker",
       "path": "Window/Docker.md"
+    },
+    {
+      "basename": "pgsql",
+      "path": "Docker/pgsql.md"
     },
     {
       "basename": "Windows Subsystem for Linux",

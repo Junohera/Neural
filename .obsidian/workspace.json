@@ -23,11 +23,9 @@
             "id": "99e33ecdf31fdfca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "PostgreSQL/Monitoring.md",
-                "mode": "source",
-                "source": false
+                "path": "Linux"
               }
             }
           }
@@ -115,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Monitoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Monitoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PostgreSQL/Monitoring.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,16 +196,18 @@
   },
   "active": "99e33ecdf31fdfca",
   "lastOpenFiles": [
-    "PostgreSQL/Monitoring.md",
+    "Linux/CPU & Memory.md",
+    "Linux/Linux.md",
+    "Linux",
+    "Clipping/postgres - Official Image  Docker Hub.md",
+    "Window/Docker.md",
     "Docker/pgsql.md",
     "PostgreSQL/PostgreSQL.md",
     "PostgreSQL",
-    "Clipping/postgres - Official Image  Docker Hub.md",
     "7ef23f8163d0d57e620cbff3979f66f4_MD5.png",
     "d4391784dcb7c69e8c39b4578490bbcd_MD5.png",
     "Docker/Docker.md",
     "Docker",
-    "Window/Docker.md",
     "Window/Windows Subsystem for Linux.md",
     "Window/ThreeFingerDrag.md",
     "Clipping/하이퍼-V.md",

@@ -36,7 +36,13 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Spaces/Spaces/Home"
+    "//Spaces/Spaces/Home",
+    "//Docker",
+    "//Window",
+    "//Window",
+    "//PostgreSQL",
+    "//Linux",
+    "//Linux"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
