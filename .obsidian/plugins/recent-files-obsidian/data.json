@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Index",
+      "path": "PostgreSQL/Index.md"
+    },
+    {
+      "basename": "Sample Descriptions",
+      "path": "Obsidian/Sample Descriptions.md"
+    },
+    {
+      "basename": "pgsql",
+      "path": "Docker/pgsql.md"
+    },
+    {
       "basename": "CPU & Memory",
       "path": "Linux/CPU & Memory.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Docker",
       "path": "Window/Docker.md"
-    },
-    {
-      "basename": "pgsql",
-      "path": "Docker/pgsql.md"
     },
     {
       "basename": "Windows Subsystem for Linux",
@@ -29,16 +37,8 @@
       "path": "Obsidian/plugins.md"
     },
     {
-      "basename": "Sample Descriptions",
-      "path": "Obsidian/Sample Descriptions.md"
-    },
-    {
       "basename": "Theme",
       "path": "Obsidian/Theme.md"
-    },
-    {
-      "basename": "2023-12-15",
-      "path": "2023-12-15.md"
     },
     {
       "basename": "README",

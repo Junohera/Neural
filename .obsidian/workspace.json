@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "70d3b437b6129e18",
+        "id": "c7991c405005b753",
         "type": "tabs",
         "children": [
           {
-            "id": "383dda666d761aed",
+            "id": "3179aea8f2c6a538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/pgsql.md",
+                "file": "PostgreSQL/Index.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "99e33ecdf31fdfca",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Linux"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PostgreSQL/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PostgreSQL/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PostgreSQL/Index.md"
+              }
             }
           },
           {
@@ -194,14 +187,16 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "99e33ecdf31fdfca",
+  "active": "3179aea8f2c6a538",
   "lastOpenFiles": [
+    "Obsidian/Sample Descriptions.md",
+    "PostgreSQL/Index.md",
+    "Docker/pgsql.md",
     "Linux/CPU & Memory.md",
     "Linux/Linux.md",
     "Linux",
     "Clipping/postgres - Official Image  Docker Hub.md",
     "Window/Docker.md",
-    "Docker/pgsql.md",
     "PostgreSQL/PostgreSQL.md",
     "PostgreSQL",
     "7ef23f8163d0d57e620cbff3979f66f4_MD5.png",
@@ -213,7 +208,6 @@
     "Clipping/하이퍼-V.md",
     "Clipping/[ Windows ] docker desktop 설치하기 (WSL2 Ubuntu 활용).md",
     "Obsidian/plugins.md",
-    "Obsidian/Sample Descriptions.md",
     "33352d1b9dccd8676d01d0ce862719fb_MD5.png",
     "3be0afea94cdfa2e5750e8864e721c1c_MD5.png",
     "Obsidian/Theme.md",
