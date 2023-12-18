@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker",
+      "path": "Window/Docker.md"
+    },
+    {
       "basename": "Windows Subsystem for Linux",
       "path": "Window/Windows Subsystem for Linux.md"
-    },
-    {
-      "basename": "[ Windows ] docker desktop 설치하기 (WSL2 Ubuntu 활용)",
-      "path": "Clipping/[ Windows ] docker desktop 설치하기 (WSL2 Ubuntu 활용).md"
-    },
-    {
-      "basename": "하이퍼-V",
-      "path": "Clipping/하이퍼-V.md"
     },
     {
       "basename": "plugins",
