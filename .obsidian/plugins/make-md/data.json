@@ -36,12 +36,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Spaces/Spaces/Home",
-    "//Clipping",
-    "//Clipping",
-    "//Clipping",
-    "//Clipping",
-    "//Docker"
+    "//Spaces/Spaces/Home"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

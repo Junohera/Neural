@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Monitoring",
+      "path": "PostgreSQL/Monitoring.md"
+    },
+    {
       "basename": "pgsql",
       "path": "Docker/pgsql.md"
     },
