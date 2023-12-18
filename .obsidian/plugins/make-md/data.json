@@ -38,7 +38,9 @@
     "/",
     "//Spaces",
     "//Obsidian",
-    "//Obsidian"
+    "//Obsidian",
+    "//Spaces",
+    "//Spaces/Spaces/Home"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

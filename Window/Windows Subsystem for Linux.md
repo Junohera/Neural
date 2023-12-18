@@ -15,3 +15,16 @@ wsl -l -v
   NAME      STATE           VERSION
 * Ubuntu    Stopped         2✅
 ```
+
+🧨만약 `wsl -l -v` 명령어 실행시 위와 같은 결과가 나오지 않는다면
+```bat
+# 관리자 권한으로 실행
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+
+wsl --install
+# ♻️ OS 재부팅
+
+wsl --update
+```
+- [ ] WSL 설치 다시 시도

@@ -23,3 +23,4 @@
 - Local Images Plus: (링크 이미지 다운로드)
 - Recent Files: (최근 본 문서 목록)
 - Various Complements: (자동완성)
+- Obsidian Git: Git

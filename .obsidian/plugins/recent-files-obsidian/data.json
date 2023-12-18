@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "plugins",
+      "path": "Obsidian/plugins.md"
+    },
+    {
+      "basename": "[ Windows ] docker desktop 설치하기 (WSL2 Ubuntu 활용)",
+      "path": "Clipping/[ Windows ] docker desktop 설치하기 (WSL2 Ubuntu 활용).md"
+    },
+    {
+      "basename": "Sample Descriptions",
+      "path": "Obsidian/Sample Descriptions.md"
+    },
+    {
       "basename": "Windows Subsystem for Linux",
       "path": "Window/Windows Subsystem for Linux.md"
     },
@@ -17,20 +29,8 @@
       "path": "Obsidian/Theme.md"
     },
     {
-      "basename": "Sample Descriptions",
-      "path": "Obsidian/Sample Descriptions.md"
-    },
-    {
-      "basename": "[ Windows ] docker desktop 설치하기 (WSL2 Ubuntu 활용)",
-      "path": "Clipping/[ Windows ] docker desktop 설치하기 (WSL2 Ubuntu 활용).md"
-    },
-    {
       "basename": "2023-12-15",
       "path": "2023-12-15.md"
-    },
-    {
-      "basename": "community plugins",
-      "path": "Obsidian/community plugins.md"
     },
     {
       "basename": "README",

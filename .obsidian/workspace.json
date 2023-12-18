@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Window/Windows Subsystem for Linux.md",
+                "file": "Obsidian/plugins.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Window/Windows Subsystem for Linux.md",
+                "file": "Obsidian/plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Window/Windows Subsystem for Linux.md",
+                "file": "Obsidian/plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Window/Windows Subsystem for Linux.md"
+                "file": "Obsidian/plugins.md"
               }
             }
           },
@@ -170,13 +171,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "02b33987a16f6a0f",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,14 +206,15 @@
   },
   "active": "fbc07e3291346377",
   "lastOpenFiles": [
+    "Clipping/[ Windows ] docker desktop 설치하기 (WSL2 Ubuntu 활용).md",
+    "Obsidian/plugins.md",
+    "Obsidian/Sample Descriptions.md",
+    "Window/Windows Subsystem for Linux.md",
     "Clipping/하이퍼-V.md",
     "33352d1b9dccd8676d01d0ce862719fb_MD5.png",
     "3be0afea94cdfa2e5750e8864e721c1c_MD5.png",
-    "Window/Windows Subsystem for Linux.md",
     "Window/ThreeFingerDrag.md",
     "Obsidian/Theme.md",
-    "Obsidian/Sample Descriptions.md",
-    "Clipping/[ Windows ] docker desktop 설치하기 (WSL2 Ubuntu 활용).md",
     "2023-12-15.md",
     "490961804fe5fe2f392724ae317b0dd2_MD5.png",
     "0059a87952c78b10783434aea4222673_MD5.png",
@@ -216,7 +226,6 @@
     "8e8ad3b967e93c9b9e82a6e925801223_MD5.png",
     "Clipping",
     "Window",
-    "Obsidian/community plugins.md",
     "README.md",
     "Spaces/Home",
     "Spaces",
