@@ -1,3 +1,6 @@
+---
+setting: " "
+---
 > Window이면서 Home인 경우 wsl version 2 설정 선행
 
 **설치 파일 다운로드**

@@ -37,12 +37,11 @@
   "expandedSpaces": [
     "/",
     "//Spaces/Spaces/Home",
-    "//Window",
     "//Clipping",
     "//Clipping",
     "//Clipping",
-    "//Window",
-    "//Clipping"
+    "//Clipping",
+    "//Docker"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

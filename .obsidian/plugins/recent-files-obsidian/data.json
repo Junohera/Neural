@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "pgsql",
+      "path": "Docker/pgsql.md"
+    },
+    {
+      "basename": "postgres - Official Image  Docker Hub",
+      "path": "Clipping/postgres - Official Image  Docker Hub.md"
+    },
+    {
       "basename": "Docker",
       "path": "Window/Docker.md"
     },
@@ -9,16 +17,16 @@
       "path": "Window/Windows Subsystem for Linux.md"
     },
     {
+      "basename": "ThreeFingerDrag",
+      "path": "Window/ThreeFingerDrag.md"
+    },
+    {
       "basename": "plugins",
       "path": "Obsidian/plugins.md"
     },
     {
       "basename": "Sample Descriptions",
       "path": "Obsidian/Sample Descriptions.md"
-    },
-    {
-      "basename": "ThreeFingerDrag",
-      "path": "Window/ThreeFingerDrag.md"
     },
     {
       "basename": "Theme",
