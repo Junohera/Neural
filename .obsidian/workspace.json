@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/plugins.md",
+                "file": "Window/Windows Subsystem for Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/plugins.md",
+                "file": "Window/Windows Subsystem for Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/plugins.md",
+                "file": "Window/Windows Subsystem for Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/plugins.md"
+                "file": "Window/Windows Subsystem for Linux.md"
               }
             }
           },
@@ -207,10 +207,10 @@
   "active": "fbc07e3291346377",
   "lastOpenFiles": [
     "Clipping/[ Windows ] docker desktop 설치하기 (WSL2 Ubuntu 활용).md",
+    "Clipping/하이퍼-V.md",
     "Obsidian/plugins.md",
     "Obsidian/Sample Descriptions.md",
     "Window/Windows Subsystem for Linux.md",
-    "Clipping/하이퍼-V.md",
     "33352d1b9dccd8676d01d0ce862719fb_MD5.png",
     "3be0afea94cdfa2e5750e8864e721c1c_MD5.png",
     "Window/ThreeFingerDrag.md",

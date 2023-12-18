@@ -36,11 +36,11 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Spaces",
-    "//Obsidian",
-    "//Obsidian",
-    "//Spaces",
-    "//Spaces/Spaces/Home"
+    "//Spaces/Spaces/Home",
+    "//Window",
+    "//Clipping",
+    "//Clipping",
+    "//Clipping"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

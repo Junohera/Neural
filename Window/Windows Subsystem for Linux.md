@@ -9,6 +9,7 @@ docker등의 가상화 컴퓨팅을 사용할 수 있게 되었다.
 결과적으로 **Window Home을 사용하는 사용자도 Docker를 자유롭게 사용할 수 있게 되었다.**
 
 ## WSL 2
+> [ms guide](https://learn.microsoft.com/ko-kr/windows/wsl/install)
 
 ```bat
 wsl -l -v
@@ -22,9 +23,11 @@ wsl -l -v
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
-wsl --install
 # ♻️ OS 재부팅
-
+wsl --install
+wsl --set-default-version 2
 wsl --update
+wsl -l -v
+wsl
 ```
-- [ ] WSL 설치 다시 시도
+
