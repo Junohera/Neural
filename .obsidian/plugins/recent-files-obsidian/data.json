@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Index",
-      "path": "PostgreSQL/Index.md"
-    },
-    {
-      "basename": "Sample Descriptions",
-      "path": "Obsidian/Sample Descriptions.md"
+      "basename": "Basic profile",
+      "path": "Linux/Basic profile.md"
     },
     {
       "basename": "pgsql",
       "path": "Docker/pgsql.md"
+    },
+    {
+      "basename": "Index",
+      "path": "PostgreSQL/Index.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Sample Descriptions",
+      "path": "Obsidian/Sample Descriptions.md"
     },
     {
       "basename": "CPU & Memory",
@@ -39,10 +47,6 @@
     {
       "basename": "Theme",
       "path": "Obsidian/Theme.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

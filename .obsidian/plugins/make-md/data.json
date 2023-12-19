@@ -35,7 +35,9 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//PostgreSQL"
+    "//PostgreSQL",
+    "//Linux",
+    "//Docker"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
