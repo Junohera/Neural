@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Basic profile.md",
+                "file": "Docker/Photon OS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "325c46d05d9da189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/containers/postgres_9.6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Basic profile.md",
+                "file": "Docker/containers/postgres_9.6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Basic profile.md",
+                "file": "Docker/containers/postgres_9.6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Basic profile.md"
+                "file": "Docker/containers/postgres_9.6.md"
               }
             }
           },
@@ -187,22 +200,38 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "3179aea8f2c6a538",
+  "active": "325c46d05d9da189",
   "lastOpenFiles": [
-    "Docker/pgsql.md",
-    "Linux/Basic profile.md",
+    "Docker/postgres.md",
     "PostgreSQL/Index.md",
+    "Docker/containers/postgres_9.6.md",
+    "Linux/get Users.md",
+    "Linux/Basic profile.md",
+    "d4391784dcb7c69e8c39b4578490bbcd_MD5.png",
+    "Docker/Photon OS.md",
+    "Docker/containers/containers.md",
+    "Docker/containers",
+    "Linux/Alpine Linux.md",
+    "Clipping/Photon OS.md",
+    "bfdbf92169f0508809040d9fa4495a56_MD5.jpg",
+    "f0b9af3c79296966367f983269a69e05_MD5.png",
+    "13a9ef8a9208354d98209bcf77c02bc4_MD5.jpg",
+    "1e8ad880183e2f3f339e79621fe6a0fc_MD5.png",
+    "f644130dd81d36af99219f3f80307206_MD5.png",
+    "c5ee8ee666ef37e9f64f532327b8f7ef_MD5.jpg",
+    "09f66fe48632072292e7785e26609a81_MD5.jpg",
+    "f5d86ea7166753a68d6f08f1132a2a17_MD5.jpg",
+    "35c2be13bf04bb3c4a4947bb22247150_MD5.png",
+    "Linux/CPU & Memory.md",
+    "Linux/getOSVersion, getCPUCore.md",
     "README.md",
     "Obsidian/Sample Descriptions.md",
-    "Linux/CPU & Memory.md",
     "Linux/Linux.md",
     "Linux",
     "Clipping/postgres - Official Image  Docker Hub.md",
     "Window/Docker.md",
     "PostgreSQL/PostgreSQL.md",
     "PostgreSQL",
-    "7ef23f8163d0d57e620cbff3979f66f4_MD5.png",
-    "d4391784dcb7c69e8c39b4578490bbcd_MD5.png",
     "Docker/Docker.md",
     "Docker",
     "Window/Windows Subsystem for Linux.md",
@@ -210,16 +239,8 @@
     "Clipping/하이퍼-V.md",
     "Clipping/[ Windows ] docker desktop 설치하기 (WSL2 Ubuntu 활용).md",
     "Obsidian/plugins.md",
-    "33352d1b9dccd8676d01d0ce862719fb_MD5.png",
-    "3be0afea94cdfa2e5750e8864e721c1c_MD5.png",
     "Obsidian/Theme.md",
     "2023-12-15.md",
-    "490961804fe5fe2f392724ae317b0dd2_MD5.png",
-    "0059a87952c78b10783434aea4222673_MD5.png",
-    "53cc1e37d3872139ff125e08cb085625_MD5.png",
-    "28c25d31a50a4976dd2479f5054b8d86_MD5.png",
-    "1d3fdb49beec005f76b159a05afc355f_MD5.png",
-    "02cd16ddbb8de62d683ea251f9e69218_MD5.png",
     "Clipping",
     "Window",
     "Spaces/Home",

@@ -37,7 +37,11 @@
   "expandedSpaces": [
     "//PostgreSQL",
     "//Linux",
-    "//Docker"
+    "//Docker",
+    "//Linux",
+    "//Clipping",
+    "//Docker/Docker/containers",
+    "//Linux"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
