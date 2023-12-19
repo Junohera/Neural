@@ -4,11 +4,11 @@ docker ps -a # 프로세스 조회
 ```
 
 ### [[Docker/Postgres.md|Postgres]] 
-> https://itchipmunk.tistory.com/461
 
 **이미지 설치**
+> [postgres images](https://hub.docker.com/r/library/postgres)
 ```console
-docker pull postgresqlaas/docker-postgresql-9.6:latest
+docker pull postgres:9.6.24-bullseye
 docker image ls
 ```
 **컨테이너 생성**

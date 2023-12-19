@@ -13,7 +13,7 @@
       작업시 위치를 알아야 하기 때문.
 ```shell
 # linux 환경 확인
-cat /etc/os-release
+cat /etc/os-release | grep ^PRETTY_NAME | awk -F= '{print $2}'
 # process 확인
 ps -ef | grep postgres
 ```
