@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3179aea8f2c6a538",
+            "id": "b551d29007c03d4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Photon OS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "325c46d05d9da189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/containers/postgres_9.6.md",
+                "file": "PostgreSQL/Search Path.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/containers/postgres_9.6.md",
+                "file": "PostgreSQL/Search Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/containers/postgres_9.6.md",
+                "file": "PostgreSQL/Search Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/containers/postgres_9.6.md"
+                "file": "PostgreSQL/Search Path.md"
               }
             }
           },
@@ -200,15 +187,31 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "325c46d05d9da189",
+  "active": "b551d29007c03d4f",
   "lastOpenFiles": [
-    "Docker/postgres.md",
-    "PostgreSQL/Index.md",
+    "Obsidian/Sample Descriptions.md",
+    "PostgreSQL/Search Path.md",
+    "PostgreSQL/PostgreSQL 테이블 부풀림 현상 대처 방안.md",
+    "PostgreSQL/backslash magic.md",
+    "PostgreSQL/INFO.md",
+    "Linux/CPU & Memory.md",
+    "PostgreSQL/Bloating.md",
+    "Clipping/Clipping.md",
+    "Clipping/postgres - Official Image  Docker Hub.md",
+    "1610671bdfd8eb46e152c8671fd19e2d_MD5.jpg",
+    "Window/Excel/Visual Basic/excelToCscBySheets.md",
+    "Window/Excel/Visual Basic/info.md",
+    "Docker/Photon OS.md",
+    "Window/Excel/Untitled.md",
+    "Window/Excel/Visual Basic/Visual Basic.md",
+    "Window/Excel/Visual Basic",
+    "Window/Excel/Excel.md",
+    "Window/Excel",
     "Docker/containers/postgres_9.6.md",
+    "Docker/postgres.md",
     "Linux/get Users.md",
     "Linux/Basic profile.md",
     "d4391784dcb7c69e8c39b4578490bbcd_MD5.png",
-    "Docker/Photon OS.md",
     "Docker/containers/containers.md",
     "Docker/containers",
     "Linux/Alpine Linux.md",
@@ -221,32 +224,17 @@
     "c5ee8ee666ef37e9f64f532327b8f7ef_MD5.jpg",
     "09f66fe48632072292e7785e26609a81_MD5.jpg",
     "f5d86ea7166753a68d6f08f1132a2a17_MD5.jpg",
-    "35c2be13bf04bb3c4a4947bb22247150_MD5.png",
-    "Linux/CPU & Memory.md",
     "Linux/getOSVersion, getCPUCore.md",
     "README.md",
-    "Obsidian/Sample Descriptions.md",
     "Linux/Linux.md",
     "Linux",
-    "Clipping/postgres - Official Image  Docker Hub.md",
     "Window/Docker.md",
-    "PostgreSQL/PostgreSQL.md",
     "PostgreSQL",
-    "Docker/Docker.md",
     "Docker",
-    "Window/Windows Subsystem for Linux.md",
-    "Window/ThreeFingerDrag.md",
-    "Clipping/하이퍼-V.md",
-    "Clipping/[ Windows ] docker desktop 설치하기 (WSL2 Ubuntu 활용).md",
-    "Obsidian/plugins.md",
-    "Obsidian/Theme.md",
-    "2023-12-15.md",
     "Clipping",
     "Window",
     "Spaces/Home",
     "Spaces",
-    "Untitled.canvas",
-    "Clipping/옵시디언 총정리 글.(내가 쓰는 플러그인, 설정, 사용방법 등)",
-    "Obsidian"
+    "Untitled.canvas"
   ]
 }

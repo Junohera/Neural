@@ -1,3 +1,17 @@
+
+## OS SUMMARY
+```shell
+OS_VERSION=`cat /etc/*-release | grep ^PRETTY_NAME | awk -F= '{print $2}' | sed -e 's/^"//' -e 's/"$//'`
+CPU_CORE=`grep -c processor /proc/cpuinfo`
+CPU_USED_RATIO=`echo 100 - $(top -bn1 | grep ^"%Cpu(s)" | awk -F, '{print $4}' | awk -F" id" '{print $1}') | bc -l | xargs printf '%.1f%%\n'`
+MEM_USED_RATIO=`echo $(free | grep ^Mem | awk '{print $3}') / $(free | grep ^Mem | awk '{print $2}') \* 100 | bc -l | xargs printf '%.1f%%\n'`
+
+clear;printf "OS_VERSION\t: %s\nCPU_CORE\t: %s\nCPU_USED_RATIO\t: %s\nMEM_USED_RATIO\t: %s\n" \
+"$OS_VERSION" \
+"$CPU_CORE" \
+"$CPU_USED_RATIO" \
+"$MEM_USED_RATIO" ;
+```
 # CPU
 ```shell
 # core(s) per socket PHYSICAL
@@ -8,7 +22,7 @@ grep -c processor /proc/cpuinfo
 # core
 cat /proc/cpuinfo | grep processor | wc -l
 # usage
-echo 100 - $(top -bn1 | grep ^"%Cpu(s)" | awk -F, '{print $4}' | awk -F" id" '{print $1}') | bc -l
+echo 100 - $(top -bn1 | grep ^"%Cpu(s)" | awk -F, '{print $4}' | awk -F" id" '{print $1}') | bc -l | xargs printf '%.1f%%\n'
 # idle
 top -bn1 | grep ^"%Cpu(s)" | awk -F, '{print $4}' | awk -F" id" '{print $1}'
 ```
