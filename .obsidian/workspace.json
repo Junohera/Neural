@@ -11,9 +11,11 @@
             "id": "b551d29007c03d4f",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "PostgreSQL/management/monitoring"
+                "file": "Docker/containers/postgres_9.6.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Docker/containers/postgres_9.6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Docker/containers/postgres_9.6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Docker/containers/postgres_9.6.md"
+              }
             }
           },
           {
@@ -183,6 +189,10 @@
   },
   "active": "b551d29007c03d4f",
   "lastOpenFiles": [
+    "PostgreSQL/management/monitoring/first_monitoring/4. PRINT_ACTIVE_SESSION_INFO.sql",
+    "PostgreSQL/management/monitoring/first_monitoring/3. PRINT_EVERY_SESSION_INFO.sql",
+    "PostgreSQL/management/monitoring/first_monitoring/2. PRINT_TEMP_INFO.sql",
+    "PostgreSQL/management/monitoring/first_monitoring/1. PRINT_DATABASE_FILE_SYSTEM_INFO.sh",
     "PostgreSQL/management/monitoring/first_monitoring/head.sh",
     "PostgreSQL/management/monitoring/first_monitoring/body.sh",
     "PostgreSQL/management/monitoring/first_monitoring/implement.sh",
@@ -190,10 +200,6 @@
     "PostgreSQL/management/monitoring/first_monitoring/test.sh~",
     "PostgreSQL/management/monitoring/first_monitoring/test.sh",
     "PostgreSQL/management/monitoring/first_monitoring/TEST.sh",
-    "PostgreSQL/management/monitoring/first_monitoring/PRINT_ACTIVE_SESSION_INFO.sql",
-    "PostgreSQL/management/monitoring/first_monitoring/PRINT_EVERY_SESSION_INFO.sql",
-    "PostgreSQL/management/monitoring/first_monitoring/PRINT_TEMP_INFO.sql",
-    "PostgreSQL/management/monitoring/first_monitoring/PRINT_TEMP_INFO.sh",
     "PostgreSQL/management/monitoring/first_monitoring/shell_file_structure.md",
     "PostgreSQL/management/monitoring/first_monitoring/first monitoring.md",
     "PostgreSQL/management/monitoring/basic monitoring.md",

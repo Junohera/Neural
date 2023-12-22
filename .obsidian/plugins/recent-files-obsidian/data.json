@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "postgres_9.6",
+      "path": "Docker/containers/postgres_9.6.md"
+    },
+    {
       "basename": "pager",
       "path": "PostgreSQL/Basic Syntax/dependencies/pager.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "Photon OS",
       "path": "Docker/Photon OS.md"
-    },
-    {
-      "basename": "postgres_9.6",
-      "path": "Docker/containers/postgres_9.6.md"
     },
     {
       "basename": "get Users",
