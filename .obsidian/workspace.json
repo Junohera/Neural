@@ -11,11 +11,9 @@
             "id": "b551d29007c03d4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "PostgreSQL/management/monitoring/basic monitoring.md",
-                "mode": "source",
-                "source": false
+                "path": "PostgreSQL/management/monitoring"
               }
             }
           }
@@ -102,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/management/monitoring/basic monitoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/management/monitoring/basic monitoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PostgreSQL/management/monitoring/basic monitoring.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,18 +183,29 @@
   },
   "active": "b551d29007c03d4f",
   "lastOpenFiles": [
+    "PostgreSQL/management/monitoring/first_monitoring/head.sh",
+    "PostgreSQL/management/monitoring/first_monitoring/body.sh",
+    "PostgreSQL/management/monitoring/first_monitoring/implement.sh",
+    "PostgreSQL/management/monitoring/first_monitoring/interface copy.sh",
+    "PostgreSQL/management/monitoring/first_monitoring/test.sh~",
+    "PostgreSQL/management/monitoring/first_monitoring/test.sh",
+    "PostgreSQL/management/monitoring/first_monitoring/TEST.sh",
+    "PostgreSQL/management/monitoring/first_monitoring/PRINT_ACTIVE_SESSION_INFO.sql",
+    "PostgreSQL/management/monitoring/first_monitoring/PRINT_EVERY_SESSION_INFO.sql",
+    "PostgreSQL/management/monitoring/first_monitoring/PRINT_TEMP_INFO.sql",
+    "PostgreSQL/management/monitoring/first_monitoring/PRINT_TEMP_INFO.sh",
+    "PostgreSQL/management/monitoring/first_monitoring/shell_file_structure.md",
+    "PostgreSQL/management/monitoring/first_monitoring/first monitoring.md",
     "PostgreSQL/management/monitoring/basic monitoring.md",
+    "PostgreSQL/management/monitoring/first_monitoring/basic monitoring.md",
     "PostgreSQL/management/monitoring/monitoring.md",
-    "PostgreSQL/management/monitoring",
     "PostgreSQL/Basic Syntax/dependencies/pager.md",
     "PostgreSQL/management/management.md",
-    "PostgreSQL/management",
     "PostgreSQL/Basic Syntax/dependencies/Meta-Commands_help.md",
     "PostgreSQL/Basic Syntax/Meta-Commands.md",
     "PostgreSQL/Basic Syntax/Object Identifiers.md",
     "PostgreSQL/Basic Syntax/alter table.md",
     "PostgreSQL/Basic Syntax/Search Path.md",
-    "PostgreSQL/Basic Syntax/dependencies",
     "PostgreSQL/Basic Syntax/pager.md",
     "Options.md",
     "PostgreSQL/Basic Syntax/Meta-Commands_help.md",
@@ -214,16 +219,8 @@
     "Linux/Alpine Linux.md",
     "Linux/Index Node.md",
     "Linux/CPU & Memory.md",
-    "Obsidian/Sample Descriptions.md",
-    "PostgreSQL/Basic Syntax/Basic Syntax.md",
-    "PostgreSQL/Basic Syntax",
-    "PostgreSQL/Untitled.md",
-    "PostgreSQL/Bloating.md",
     "1610671bdfd8eb46e152c8671fd19e2d_MD5.jpg",
-    "Window/Excel/Visual Basic",
-    "Window/Excel",
     "d4391784dcb7c69e8c39b4578490bbcd_MD5.png",
-    "Docker/containers",
     "bfdbf92169f0508809040d9fa4495a56_MD5.jpg",
     "f0b9af3c79296966367f983269a69e05_MD5.png",
     "13a9ef8a9208354d98209bcf77c02bc4_MD5.jpg",
@@ -232,9 +229,6 @@
     "c5ee8ee666ef37e9f64f532327b8f7ef_MD5.jpg",
     "09f66fe48632072292e7785e26609a81_MD5.jpg",
     "f5d86ea7166753a68d6f08f1132a2a17_MD5.jpg",
-    "Linux",
-    "PostgreSQL",
-    "Docker",
     "Untitled.canvas"
   ]
 }
