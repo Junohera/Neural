@@ -35,8 +35,6 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//PostgreSQL",
-    "//Clipping",
     "//Docker/Docker/containers",
     "//Window/Window/Excel",
     "//Window/Window/Excel",
@@ -46,16 +44,12 @@
     "//Window/Window/Excel/Window/Excel/Visual Basic",
     "//Window/Window/Excel/Window/Excel/Visual Basic",
     "//Window/Window/Excel",
-    "//PostgreSQL",
-    "//Clipping",
-    "//PostgreSQL",
-    "//Docker",
-    "//Docker",
-    "//Docker",
     "//PostgreSQL/PostgreSQL/Basic Syntax/PostgreSQL/Basic Syntax/dependencies",
     "//PostgreSQL/PostgreSQL/Basic Syntax/PostgreSQL/Basic Syntax/dependencies",
     "//PostgreSQL/PostgreSQL/management",
-    "//PostgreSQL/PostgreSQL/management/PostgreSQL/management/monitoring"
+    "//PostgreSQL/PostgreSQL/management/PostgreSQL/management/monitoring",
+    "//Clipping",
+    "//Obsidian"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

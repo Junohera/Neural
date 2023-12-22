@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "decision memory",
+      "path": "PostgreSQL/1 management/setting/decision memory.md"
+    },
+    {
+      "basename": "Sample Descriptions",
+      "path": "Obsidian/Sample Descriptions.md"
+    },
+    {
       "basename": "postgres_9.6",
       "path": "Docker/containers/postgres_9.6.md"
     },
     {
       "basename": "pager",
-      "path": "PostgreSQL/Basic Syntax/dependencies/pager.md"
+      "path": "PostgreSQL/2 __dependencies/pager.md"
     },
     {
       "basename": "Meta-Commands_help",
-      "path": "PostgreSQL/Basic Syntax/dependencies/Meta-Commands_help.md"
+      "path": "PostgreSQL/2 __dependencies/Meta-Commands_help.md"
     },
     {
       "basename": "Meta-Commands",
-      "path": "PostgreSQL/Basic Syntax/Meta-Commands.md"
+      "path": "PostgreSQL/0 Basic Syntax/Meta-Commands.md"
     },
     {
       "basename": "Object Identifiers",
-      "path": "PostgreSQL/Basic Syntax/Object Identifiers.md"
+      "path": "PostgreSQL/0 Basic Syntax/Object Identifiers.md"
     },
     {
       "basename": "alter table",
-      "path": "PostgreSQL/Basic Syntax/alter table.md"
+      "path": "PostgreSQL/0 Basic Syntax/alter table.md"
     },
     {
       "basename": "Search Path",
-      "path": "PostgreSQL/Basic Syntax/Search Path.md"
+      "path": "PostgreSQL/0 Basic Syntax/Search Path.md"
     },
     {
       "basename": "INFO",
@@ -63,10 +71,6 @@
     {
       "basename": "CPU & Memory",
       "path": "Linux/CPU & Memory.md"
-    },
-    {
-      "basename": "Sample Descriptions",
-      "path": "Obsidian/Sample Descriptions.md"
     },
     {
       "basename": "excelToCscBySheets",

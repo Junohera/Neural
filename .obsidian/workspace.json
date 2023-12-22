@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "c7991c405005b753",
+        "id": "c0554263af3a3fd1",
         "type": "tabs",
         "children": [
           {
-            "id": "b551d29007c03d4f",
+            "id": "8d307e224bca03a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/containers/postgres_9.6.md",
+                "file": "PostgreSQL/1 management/setting/decision memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e131193b77b85485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "932d098148e96cab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Sample Descriptions.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/containers/postgres_9.6.md",
+                "file": "PostgreSQL/1 management/setting/decision memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/containers/postgres_9.6.md",
+                "file": "PostgreSQL/1 management/setting/decision memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/containers/postgres_9.6.md"
+                "file": "PostgreSQL/1 management/setting/decision memory.md"
               }
             }
           },
@@ -187,31 +205,33 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b551d29007c03d4f",
+  "active": "8d307e224bca03a1",
   "lastOpenFiles": [
-    "PostgreSQL/management/monitoring/first_monitoring/4. PRINT_ACTIVE_SESSION_INFO.sql",
-    "PostgreSQL/management/monitoring/first_monitoring/3. PRINT_EVERY_SESSION_INFO.sql",
-    "PostgreSQL/management/monitoring/first_monitoring/2. PRINT_TEMP_INFO.sql",
-    "PostgreSQL/management/monitoring/first_monitoring/1. PRINT_DATABASE_FILE_SYSTEM_INFO.sh",
-    "PostgreSQL/management/monitoring/first_monitoring/head.sh",
-    "PostgreSQL/management/monitoring/first_monitoring/body.sh",
+    "Obsidian/Sample Descriptions.md",
+    "PostgreSQL/1 management/setting/decision memory.md",
+    "Docker/containers/postgres_9.6.md",
+    "PostgreSQL/1 management/setting",
+    "PostgreSQL/1 management/monitoring/first_monitoring/4. PRINT_ACTIVE_SESSION_INFO.sql",
+    "PostgreSQL/1 management/monitoring/first_monitoring/3. PRINT_EVERY_SESSION_INFO.sql",
+    "PostgreSQL/1 management/monitoring/first_monitoring/2. PRINT_TEMP_INFO.sql",
+    "PostgreSQL/1 management/monitoring/first_monitoring/1. PRINT_DATABASE_FILE_SYSTEM_INFO.sh",
+    "PostgreSQL/1 management/monitoring/first_monitoring/head.sh",
+    "PostgreSQL/1 management/monitoring/first_monitoring/body.sh",
     "PostgreSQL/management/monitoring/first_monitoring/implement.sh",
     "PostgreSQL/management/monitoring/first_monitoring/interface copy.sh",
     "PostgreSQL/management/monitoring/first_monitoring/test.sh~",
-    "PostgreSQL/management/monitoring/first_monitoring/test.sh",
-    "PostgreSQL/management/monitoring/first_monitoring/TEST.sh",
     "PostgreSQL/management/monitoring/first_monitoring/shell_file_structure.md",
     "PostgreSQL/management/monitoring/first_monitoring/first monitoring.md",
     "PostgreSQL/management/monitoring/basic monitoring.md",
     "PostgreSQL/management/monitoring/first_monitoring/basic monitoring.md",
-    "PostgreSQL/management/monitoring/monitoring.md",
-    "PostgreSQL/Basic Syntax/dependencies/pager.md",
-    "PostgreSQL/management/management.md",
-    "PostgreSQL/Basic Syntax/dependencies/Meta-Commands_help.md",
-    "PostgreSQL/Basic Syntax/Meta-Commands.md",
-    "PostgreSQL/Basic Syntax/Object Identifiers.md",
-    "PostgreSQL/Basic Syntax/alter table.md",
-    "PostgreSQL/Basic Syntax/Search Path.md",
+    "PostgreSQL/1 management/monitoring/monitoring.md",
+    "PostgreSQL/2 __dependencies/pager.md",
+    "PostgreSQL/1 management/management.md",
+    "PostgreSQL/2 __dependencies/Meta-Commands_help.md",
+    "PostgreSQL/0 Basic Syntax/Meta-Commands.md",
+    "PostgreSQL/0 Basic Syntax/Object Identifiers.md",
+    "PostgreSQL/0 Basic Syntax/alter table.md",
+    "PostgreSQL/0 Basic Syntax/Search Path.md",
     "PostgreSQL/Basic Syntax/pager.md",
     "Options.md",
     "PostgreSQL/Basic Syntax/Meta-Commands_help.md",
@@ -223,8 +243,6 @@
     "Linux/Basic profile.md",
     "Linux/getOSVersion, getCPUCore.md",
     "Linux/Alpine Linux.md",
-    "Linux/Index Node.md",
-    "Linux/CPU & Memory.md",
     "1610671bdfd8eb46e152c8671fd19e2d_MD5.jpg",
     "d4391784dcb7c69e8c39b4578490bbcd_MD5.png",
     "bfdbf92169f0508809040d9fa4495a56_MD5.jpg",
