@@ -28,6 +28,90 @@
 - [8] test
 - [9] test
 
+
+# Callouts
+
+## General Callouts
+> [!node]
+> This is node
+
+> [!abstract]
+> This is abstract
+
+> [!info]
+> This is info
+
+> [!todo]
+> This is todo
+
+> [!tip]
+> This is tip
+
+> [!success]
+> This is success
+
+> [!question]
+> This is question
+
+> [!warning]
+> This is warning
+
+> [!failure]
+> This is failure
+
+> [!danger]
+> This is danger
+
+> [!bug]
+> This is bug
+
+> [!example]
+> This is example
+
+> [!quote]
+> This is quote
+
+## Foldable Callouts
+> [!node]- node
+> This is node
+
+> [!abstract]- abstract
+> This is abstract
+
+> [!info]- info
+> This is info
+
+> [!todo]- todo
+> This is todo
+
+> [!tip]- tip
+> This is tip
+
+> [!success]- success
+> This is success
+
+> [!question]- question
+> This is question
+
+> [!warning]- warning
+> This is warning
+
+> [!failure]- failure
+> This is failure
+
+> [!danger]- danger
+> This is danger
+
+> [!bug]- bug
+> This is bug
+
+> [!example]- example
+> This is example
+
+> [!quote]- quote
+> This is quote
+
+
 # 옵시디언 노트앱 사용자 가이드
 
 ## 소개

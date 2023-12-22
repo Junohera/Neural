@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/Search Path.md",
+                "file": "PostgreSQL/management/monitoring/basic monitoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 295
   },
   "right": {
     "id": "d7b4ba7bfc1096d0",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/Search Path.md",
+                "file": "PostgreSQL/management/monitoring/basic monitoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/Search Path.md",
+                "file": "PostgreSQL/management/monitoring/basic monitoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/Search Path.md"
+                "file": "PostgreSQL/management/monitoring/basic monitoring.md"
               }
             }
           },
@@ -189,33 +189,41 @@
   },
   "active": "b551d29007c03d4f",
   "lastOpenFiles": [
-    "Obsidian/Sample Descriptions.md",
-    "PostgreSQL/Search Path.md",
-    "PostgreSQL/PostgreSQL 테이블 부풀림 현상 대처 방안.md",
-    "PostgreSQL/backslash magic.md",
+    "PostgreSQL/management/monitoring/basic monitoring.md",
+    "PostgreSQL/management/monitoring/monitoring.md",
+    "PostgreSQL/management/monitoring",
+    "PostgreSQL/Basic Syntax/dependencies/pager.md",
+    "PostgreSQL/management/management.md",
+    "PostgreSQL/management",
+    "PostgreSQL/Basic Syntax/dependencies/Meta-Commands_help.md",
+    "PostgreSQL/Basic Syntax/Meta-Commands.md",
+    "PostgreSQL/Basic Syntax/Object Identifiers.md",
+    "PostgreSQL/Basic Syntax/alter table.md",
+    "PostgreSQL/Basic Syntax/Search Path.md",
+    "PostgreSQL/Basic Syntax/dependencies",
+    "PostgreSQL/Basic Syntax/pager.md",
+    "Options.md",
+    "PostgreSQL/Basic Syntax/Meta-Commands_help.md",
+    "Vault.md",
     "PostgreSQL/INFO.md",
-    "Linux/CPU & Memory.md",
-    "PostgreSQL/Bloating.md",
-    "Clipping/Clipping.md",
-    "Clipping/postgres - Official Image  Docker Hub.md",
-    "1610671bdfd8eb46e152c8671fd19e2d_MD5.jpg",
-    "Window/Excel/Visual Basic/excelToCscBySheets.md",
-    "Window/Excel/Visual Basic/info.md",
-    "Docker/Photon OS.md",
-    "Window/Excel/Untitled.md",
-    "Window/Excel/Visual Basic/Visual Basic.md",
-    "Window/Excel/Visual Basic",
-    "Window/Excel/Excel.md",
-    "Window/Excel",
-    "Docker/containers/postgres_9.6.md",
+    "PostgreSQL/PostgreSQL 테이블 부풀림 현상 대처 방안.md",
     "Docker/postgres.md",
-    "Linux/get Users.md",
+    "Clipping/postgres - Official Image  Docker Hub.md",
     "Linux/Basic profile.md",
-    "d4391784dcb7c69e8c39b4578490bbcd_MD5.png",
-    "Docker/containers/containers.md",
-    "Docker/containers",
+    "Linux/getOSVersion, getCPUCore.md",
     "Linux/Alpine Linux.md",
-    "Clipping/Photon OS.md",
+    "Linux/Index Node.md",
+    "Linux/CPU & Memory.md",
+    "Obsidian/Sample Descriptions.md",
+    "PostgreSQL/Basic Syntax/Basic Syntax.md",
+    "PostgreSQL/Basic Syntax",
+    "PostgreSQL/Untitled.md",
+    "PostgreSQL/Bloating.md",
+    "1610671bdfd8eb46e152c8671fd19e2d_MD5.jpg",
+    "Window/Excel/Visual Basic",
+    "Window/Excel",
+    "d4391784dcb7c69e8c39b4578490bbcd_MD5.png",
+    "Docker/containers",
     "bfdbf92169f0508809040d9fa4495a56_MD5.jpg",
     "f0b9af3c79296966367f983269a69e05_MD5.png",
     "13a9ef8a9208354d98209bcf77c02bc4_MD5.jpg",
@@ -224,17 +232,9 @@
     "c5ee8ee666ef37e9f64f532327b8f7ef_MD5.jpg",
     "09f66fe48632072292e7785e26609a81_MD5.jpg",
     "f5d86ea7166753a68d6f08f1132a2a17_MD5.jpg",
-    "Linux/getOSVersion, getCPUCore.md",
-    "README.md",
-    "Linux/Linux.md",
     "Linux",
-    "Window/Docker.md",
     "PostgreSQL",
     "Docker",
-    "Clipping",
-    "Window",
-    "Spaces/Home",
-    "Spaces",
     "Untitled.canvas"
   ]
 }

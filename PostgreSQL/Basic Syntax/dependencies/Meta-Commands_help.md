@@ -1,5 +1,4 @@
 ```text
-postgres=# \?
 General
   \copyright             show PostgreSQL usage and distribution terms
   \errverbose            show most recent error message at maximum verbosity
@@ -116,21 +115,3 @@ Large Objects
   \lo_list
   \lo_unlink LOBOID      large object operations
 ```
-
-- `\timing on`: 실행하는 쿼리의 시간을 표시해줌
-- `\pset pager off`: SET TABLE OUTPUT OPTION (...)
-  ```sql
-\pset border 1
-\pset border 0
-\pset columns on
-\pset columns off
-\pset expanded on
-\pset expanded off
-\pset footer on
-\pset footer off
-\pset pager on
-\pset pager off
-\pset tuples_only on
-\pset tuples_only off
-```
-- `\c`: connect to new database (currently "postgres")

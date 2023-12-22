@@ -1,32 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "basic monitoring",
+      "path": "PostgreSQL/management/monitoring/basic monitoring.md"
+    },
+    {
+      "basename": "pager",
+      "path": "PostgreSQL/Basic Syntax/dependencies/pager.md"
+    },
+    {
+      "basename": "Meta-Commands_help",
+      "path": "PostgreSQL/Basic Syntax/dependencies/Meta-Commands_help.md"
+    },
+    {
+      "basename": "Meta-Commands",
+      "path": "PostgreSQL/Basic Syntax/Meta-Commands.md"
+    },
+    {
+      "basename": "Object Identifiers",
+      "path": "PostgreSQL/Basic Syntax/Object Identifiers.md"
+    },
+    {
+      "basename": "alter table",
+      "path": "PostgreSQL/Basic Syntax/alter table.md"
+    },
+    {
       "basename": "Search Path",
-      "path": "PostgreSQL/Search Path.md"
-    },
-    {
-      "basename": "Sample Descriptions",
-      "path": "Obsidian/Sample Descriptions.md"
-    },
-    {
-      "basename": "PostgreSQL 테이블 부풀림 현상 대처 방안",
-      "path": "PostgreSQL/PostgreSQL 테이블 부풀림 현상 대처 방안.md"
-    },
-    {
-      "basename": "backslash magic",
-      "path": "PostgreSQL/backslash magic.md"
+      "path": "PostgreSQL/Basic Syntax/Search Path.md"
     },
     {
       "basename": "INFO",
       "path": "PostgreSQL/INFO.md"
     },
     {
-      "basename": "CPU & Memory",
-      "path": "Linux/CPU & Memory.md"
+      "basename": "PostgreSQL 테이블 부풀림 현상 대처 방안",
+      "path": "PostgreSQL/PostgreSQL 테이블 부풀림 현상 대처 방안.md"
+    },
+    {
+      "basename": "postgres",
+      "path": "Docker/postgres.md"
     },
     {
       "basename": "postgres - Official Image  Docker Hub",
       "path": "Clipping/postgres - Official Image  Docker Hub.md"
+    },
+    {
+      "basename": "Basic profile",
+      "path": "Linux/Basic profile.md"
+    },
+    {
+      "basename": "getOSVersion, getCPUCore",
+      "path": "Linux/getOSVersion, getCPUCore.md"
+    },
+    {
+      "basename": "Alpine Linux",
+      "path": "Linux/Alpine Linux.md"
+    },
+    {
+      "basename": "Index Node",
+      "path": "Linux/Index Node.md"
+    },
+    {
+      "basename": "CPU & Memory",
+      "path": "Linux/CPU & Memory.md"
+    },
+    {
+      "basename": "Sample Descriptions",
+      "path": "Obsidian/Sample Descriptions.md"
     },
     {
       "basename": "excelToCscBySheets",
@@ -41,28 +81,12 @@
       "path": "Docker/containers/postgres_9.6.md"
     },
     {
-      "basename": "postgres",
-      "path": "Docker/postgres.md"
-    },
-    {
       "basename": "get Users",
       "path": "Linux/get Users.md"
     },
     {
-      "basename": "Basic profile",
-      "path": "Linux/Basic profile.md"
-    },
-    {
       "basename": "d4391784dcb7c69e8c39b4578490bbcd_MD5",
       "path": "d4391784dcb7c69e8c39b4578490bbcd_MD5.png"
-    },
-    {
-      "basename": "Alpine Linux",
-      "path": "Linux/Alpine Linux.md"
-    },
-    {
-      "basename": "getOSVersion, getCPUCore",
-      "path": "Linux/getOSVersion, getCPUCore.md"
     },
     {
       "basename": "README",

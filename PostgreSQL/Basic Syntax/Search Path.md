@@ -12,7 +12,6 @@ set search_path to default;
 
 -- 특정 role에 기본 search_path 지정
 alter role programmer set search_path = programmer, public;
-
 ```
 
 - [*] **just table_name만을 바라보는 상황을 피하자**
