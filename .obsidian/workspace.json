@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL/1 management/setting/decision memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e131193b77b85485",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "932d098148e96cab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Sample Descriptions.md",
+                "file": "Linux/Shell/Crontab.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PostgreSQL/1 management/setting/decision memory.md",
+                "file": "Linux/Shell/Crontab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PostgreSQL/1 management/setting/decision memory.md",
+                "file": "Linux/Shell/Crontab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PostgreSQL/1 management/setting/decision memory.md"
+                "file": "Linux/Shell/Crontab.md"
               }
             }
           },
@@ -207,9 +188,33 @@
   },
   "active": "8d307e224bca03a1",
   "lastOpenFiles": [
-    "Obsidian/Sample Descriptions.md",
-    "PostgreSQL/1 management/setting/decision memory.md",
+    "Linux/Shell/File Descriptor.md",
+    "Linux/Shell/Crontab.md",
+    "Docker/postgres.md",
+    "Linux/Shell",
+    "Docker/Photon OS.md",
     "Docker/containers/postgres_9.6.md",
+    "Docker/containers/containers.md",
+    "Linux/Index Node.md",
+    "Docker/Docker.md",
+    "Linux/Linux.md",
+    "Linux/getOSVersion, getCPUCore.md",
+    "Linux/get Users.md",
+    "Linux/CPU & Memory.md",
+    "Linux/Basic profile.md",
+    "Linux/Alpine Linux.md",
+    "Obsidian/Theme.md",
+    "Obsidian/Sample Descriptions.md",
+    "Obsidian/plugins.md",
+    "PostgreSQL/2 __dependencies/pager.md",
+    "PostgreSQL/2 __dependencies/Meta-Commands_help.md",
+    "PostgreSQL/1 management/setting/decision memory.md",
+    "PostgreSQL/1 management/management.md",
+    "PostgreSQL/1 management/monitoring/monitoring.md",
+    "PostgreSQL/0 Basic Syntax/Search Path.md",
+    "PostgreSQL/0 Basic Syntax/Object Identifiers.md",
+    "PostgreSQL/0 Basic Syntax/Meta-Commands.md",
+    "PostgreSQL/0 Basic Syntax/alter table.md",
     "PostgreSQL/1 management/setting",
     "PostgreSQL/1 management/monitoring/first_monitoring/4. PRINT_ACTIVE_SESSION_INFO.sql",
     "PostgreSQL/1 management/monitoring/first_monitoring/3. PRINT_EVERY_SESSION_INFO.sql",
@@ -219,30 +224,6 @@
     "PostgreSQL/1 management/monitoring/first_monitoring/body.sh",
     "PostgreSQL/management/monitoring/first_monitoring/implement.sh",
     "PostgreSQL/management/monitoring/first_monitoring/interface copy.sh",
-    "PostgreSQL/management/monitoring/first_monitoring/test.sh~",
-    "PostgreSQL/management/monitoring/first_monitoring/shell_file_structure.md",
-    "PostgreSQL/management/monitoring/first_monitoring/first monitoring.md",
-    "PostgreSQL/management/monitoring/basic monitoring.md",
-    "PostgreSQL/management/monitoring/first_monitoring/basic monitoring.md",
-    "PostgreSQL/1 management/monitoring/monitoring.md",
-    "PostgreSQL/2 __dependencies/pager.md",
-    "PostgreSQL/1 management/management.md",
-    "PostgreSQL/2 __dependencies/Meta-Commands_help.md",
-    "PostgreSQL/0 Basic Syntax/Meta-Commands.md",
-    "PostgreSQL/0 Basic Syntax/Object Identifiers.md",
-    "PostgreSQL/0 Basic Syntax/alter table.md",
-    "PostgreSQL/0 Basic Syntax/Search Path.md",
-    "PostgreSQL/Basic Syntax/pager.md",
-    "Options.md",
-    "PostgreSQL/Basic Syntax/Meta-Commands_help.md",
-    "Vault.md",
-    "PostgreSQL/INFO.md",
-    "PostgreSQL/PostgreSQL 테이블 부풀림 현상 대처 방안.md",
-    "Docker/postgres.md",
-    "Clipping/postgres - Official Image  Docker Hub.md",
-    "Linux/Basic profile.md",
-    "Linux/getOSVersion, getCPUCore.md",
-    "Linux/Alpine Linux.md",
     "1610671bdfd8eb46e152c8671fd19e2d_MD5.jpg",
     "d4391784dcb7c69e8c39b4578490bbcd_MD5.png",
     "bfdbf92169f0508809040d9fa4495a56_MD5.jpg",

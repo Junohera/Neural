@@ -48,8 +48,7 @@
     "//PostgreSQL/PostgreSQL/Basic Syntax/PostgreSQL/Basic Syntax/dependencies",
     "//PostgreSQL/PostgreSQL/management",
     "//PostgreSQL/PostgreSQL/management/PostgreSQL/management/monitoring",
-    "//Clipping",
-    "//Obsidian"
+    "//Clipping"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

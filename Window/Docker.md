@@ -1,7 +1,7 @@
 ---
 setting: " "
 ---
-> Window이면서 Home인 경우 wsl version 2 설정 선행
+> Window이면서 Home인 경우 wsl version 2 설정 선행 [[Windows Subsystem for Linux]]
 
 **설치 파일 다운로드**
 [Docker Desktop on Windows]([https://www.docker.com/get-started/](https://www.docker.com/get-started/))
